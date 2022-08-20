@@ -1,3 +1,4 @@
 .c9revisions/
 logs/*
 !.gitkeep
+/node_modules
